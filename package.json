@@ -1,0 +1,20 @@
+{
+  "name": "next_redux",
+  "version": "1.0.0",
+  "description": "Next js with redux example",
+  "dependencies": {
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Maxim Ten",
+  "license": "MIT"
+}
